@@ -1,2 +1,25 @@
-# pause-downloads
-Pause for macOS — official installer downloads. Distribution only; app source code is not included.
+# Pause for macOS
+
+Pause의 macOS 설치 파일을 배포하는 저장소입니다. 앱 소스코드는 이 저장소에 포함하지 않습니다.
+
+홈페이지: https://pause-portable.pages.dev/
+
+## 다운로드
+
+이 저장소의 Releases에서 최신 버전을 선택하세요.
+
+- Apple Silicon (M 시리즈): 파일 이름에 `arm64`가 포함된 DMG
+- Intel Mac: 파일 이름에 `x64`가 포함된 DMG
+- 시스템 요구 사항: macOS 13 이상, 카메라 권한
+
+## 현재 버전: 2.6.2
+
+손이 입 근처에 머무는 동작 감지, 민감도 조절, 로컬 CSV 기록과 통계, 선택형 로컬 타임랩스를 지원합니다.
+
+현재 배포본은 Apple 공증 전 시험본입니다. macOS에서 실행 경고가 표시될 수 있습니다.
+
+기존 Pause 또는 Pause Portable을 종료한 뒤 설치하세요. DMG에서 Pause를 응용 프로그램 폴더로 옮겨 실행합니다. 기존 기록은 먼저 백업하세요.
+
+## 권리 안내
+
+설치 파일의 공개 다운로드는 앱 소스코드의 공개나 오픈소스 라이선스 부여를 의미하지 않습니다.
